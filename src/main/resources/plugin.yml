@@ -1,0 +1,6 @@
+name: BanPlugin
+version: '${project.version}'
+main: org.pt.tomas.banPlugin.Main
+commands:
+  banir:
+  desbanir:
